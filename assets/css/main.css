@@ -2771,7 +2771,7 @@ input[type="button"]:disabled,
 .features article .inner {
   display: inline-block;
   vertical-align: middle;
-  width: 50%;
+  width: 100%;
 }
 
 .features article .inner > :last-child {
