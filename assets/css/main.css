@@ -2778,6 +2778,18 @@ input[type="button"]:disabled,
   margin-bottom: 0;
 }
 
+.features article .inner .designation {
+  display: flex;
+  border-width: 3px;
+  border-color: pink;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.features article .inner p {
+  text-align: justify;
+}
+
 /* Header */
 
 #header {
