@@ -564,6 +564,9 @@
 .fa-bolt:before {
   content: "\f0e7";
 }
+.fa-js::before {
+  content: "\f3b9";
+}
 .fa-bomb:before {
   content: "\f1e2";
 }

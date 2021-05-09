@@ -2496,7 +2496,7 @@ ul.feature-icons li:before {
 ul.feature-icons li:before {
   background: #26a0f4;
   border-radius: 100%;
-  color: #ffffff;
+  color: #fff;
   display: block;
   height: 2.5em;
   left: 0;
@@ -2878,7 +2878,7 @@ input[type="button"]:disabled,
   flex-shrink: 0;
   bottom: 0;
   left: 0;
-  padding: 2em;
+  padding: 1em;
   width: 100%;
 }
 
@@ -2917,8 +2917,9 @@ input[type="button"]:disabled,
   border: 0;
   color: #ffffff !important;
   display: block;
-  padding: 0.65em 0;
+  padding: 0.3em 0;
   text-decoration: none;
+  height: "16%";
 }
 
 #header > nav ul li a.active {
@@ -3008,7 +3009,7 @@ input[type="button"]:disabled,
   }
 
   #header > footer {
-    padding: 1.5em;
+    padding: 1em;
   }
 
   /* Wrapper */
@@ -3332,7 +3333,7 @@ input[type="button"]:disabled,
   }
 
   #header > footer {
-    padding: 1.5em;
+    padding: 1em;
   }
 
   /* Main */
